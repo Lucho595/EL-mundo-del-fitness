@@ -1,7 +1,9 @@
-# El Mundo del Fitness — sitio para GitHub Pages
+# El Mundo del Fitness
 
-Esta carpeta contiene el sitio preparado desde el respaldo de Blogger. El archivo inicial es index.html.
+Sitio estático preparado para GitHub Pages. La página inicial es index.html.
 
-Para publicarlo después, sube el contenido de esta carpeta a la raíz del repositorio: index.html, assets, articulos y paginas. Mantén juntas esas carpetas para que funcionen las imágenes y los enlaces internos.
+Las carpetas assets, articulos y paginas deben permanecer junto a index.html en la raíz del repositorio para que funcionen las imágenes, los estilos y los enlaces.
 
-La vista previa incluye una banda que indica que el contenido está en revisión. Consulta REVISION-EDITORIAL.md antes de publicar y confirma los derechos de las imágenes.
+El informe editorial REVISION-EDITORIAL.md está en la raíz del repositorio. Si agregas AdSense, Analytics, formularios u otros servicios, revisa la política de privacidad antes de activarlos.
+
+Para publicar con GitHub Pages, abre Settings → Pages y selecciona la rama main y la carpeta raíz (/(root)).
